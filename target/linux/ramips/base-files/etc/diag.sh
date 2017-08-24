@@ -207,6 +207,9 @@ get_status_led() {
 	wrtnode)
 		status_led="wrtnode:blue:indicator"
 		;;
+	zm-we450)
+		status_led="zm-we450:blue:wan"
+		;;
 	esac
 }
 

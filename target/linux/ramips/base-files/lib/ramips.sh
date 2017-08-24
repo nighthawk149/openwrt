@@ -544,6 +544,9 @@ ramips_board_detect() {
 	*"ZBT-WR8305RT")
 		name="zbt-wr8305rt"
 		;;
+	*"ZM-WE450")
+		name="zm-we450"
+		;;
 	*"YK1")
 		name="youku-yk1"
 		;;
